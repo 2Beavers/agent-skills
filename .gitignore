@@ -1,0 +1,3 @@
+# Don't ignore .agent/ — the template is part of the repo
+# Individual projects using these skills may want to gitignore .agent/resume.md
+# since it contains session-specific state
